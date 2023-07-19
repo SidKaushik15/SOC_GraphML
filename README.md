@@ -1,4 +1,4 @@
-# **SOC - Image Colourisation**
+# **SOC - Graph ML**
 #### By - Siddharth Kaushik
 
 Graph machine learning is a subfield of machine learning that involves using graph structures to represent data and learn from it. It is a type of deep learning that focuses on modeling complex relationships and dependencies between entities in a graph. 
